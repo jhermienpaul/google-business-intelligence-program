@@ -43,7 +43,7 @@
 ### 🏆 Endorsements and recognition
 
 - **ACE® College Credit Recommendation:** Up to **6 US college credits** upon completion
-- **ECTS Credit Eligible:** Earn up to **3 ECTS credits** for European universities
+- **FIBAA (ECTS) Credit Eligible:** Earn up to **3 ECTS credits** for European universities
 - **Google Employer Consortium Access:** Connect directly with 150+ employers including Google, Accenture, Deloitte, Verizon, and more
 
 #
